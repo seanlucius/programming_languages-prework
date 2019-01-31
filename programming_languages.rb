@@ -6,7 +6,7 @@ def reformat_languages(languages)
       new_hash[indv_language][:style] = [styles]
     end 
   end 
-  if 
+  new_hash[:javascript][:style].push(:oo)
   new_hash
 end
 
