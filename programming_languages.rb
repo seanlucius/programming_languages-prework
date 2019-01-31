@@ -6,6 +6,7 @@ def reformat_languages(languages)
       new_hash[indv_language][:style] = [styles]
     end 
   end 
+  if 
   new_hash
 end
 
